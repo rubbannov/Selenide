@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d025b086-e96c-4a12-8359-9e5c95049f2e" name="Changes" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/.appveyor.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.appveyor.yml" afterDir="false" />
+    <list default="true" id="d025b086-e96c-4a12-8359-9e5c95049f2e" name="Changes" comment="fixed build.gradle">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CardDeliveryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CardDeliveryTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Portfolio/JavaProjects/Selenide"
   }
 }]]></component>
   <component name="RunManager">
@@ -89,11 +91,27 @@
       <option name="project" value="LOCAL" />
       <updated>1684174007511</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fixed .appveyor.yml">
+      <created>1684174669623</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684174669623</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fixed build.gradle">
+      <created>1684174921933</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684174921933</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="fixed .appveyor.yml" />
+    <MESSAGE value="fixed build.gradle" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed build.gradle" />
   </component>
 </project>
